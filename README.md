@@ -12,3 +12,4 @@ ATENÇÃO - Tenha certeza de que você está rodando o notebook usando uma runti
 ### Dataset
 O dataset usado é uma amostra aleatória de 1000 notícias brasileiras, extraído do original no Kaggle https://www.kaggle.com/datasets/marlesson/news-of-the-site-folhauol
 
+Você pode modificar o notebook para um csv contendo as colunas `text` com os textos longos e `summary` com o resumo/titulo do texto
